@@ -1,0 +1,27 @@
+header {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+nav > a {
+    background-color: antiquewhite;
+    color: #000000;
+}
+
+.left {
+    display: none;
+}
+
+.right {
+    background-color: grey;
+}
+
+.right > h2 {
+    text-transform: uppercase;
+    color: blue;
+}
