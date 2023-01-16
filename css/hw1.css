@@ -1,5 +1,5 @@
 header {
-    background-color: gray;
+    background-color: #C0C0C0;/* Silver */
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 nav > a {
-    background-color: antiquewhite;
+    background-color: #D3D3D3;/* LightGray */ 
     color: #000000;
 }
 
@@ -23,5 +23,5 @@ nav > a {
 
 .right > h2 {
     text-transform: uppercase;
-    color: blue;
+    color: #00008B;/* DarkBlue */
 }
